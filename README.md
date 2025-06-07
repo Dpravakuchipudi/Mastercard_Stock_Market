@@ -1,5 +1,5 @@
 
-```markdown
+
 # 📈 Mastercard Stock Market Analysis & Forecasting
 
 This project analyzes and forecasts Mastercard’s stock performance using Python. It includes historical trend analysis, visual exploration, and ARIMA-based time series forecasting.
